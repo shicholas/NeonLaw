@@ -1,0 +1,4 @@
+baseURL = 'https://neon.law/'
+languageCode = 'en-us'
+title = 'Neon Law'
+theme = 'mytheme'
